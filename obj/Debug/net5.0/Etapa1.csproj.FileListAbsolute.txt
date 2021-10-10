@@ -1,0 +1,16 @@
+D:\Mauricio\Platzi\FundamentosC#\Etapa1\bin\Debug\net5.0\Etapa1.exe
+D:\Mauricio\Platzi\FundamentosC#\Etapa1\bin\Debug\net5.0\Etapa1.deps.json
+D:\Mauricio\Platzi\FundamentosC#\Etapa1\bin\Debug\net5.0\Etapa1.runtimeconfig.json
+D:\Mauricio\Platzi\FundamentosC#\Etapa1\bin\Debug\net5.0\Etapa1.runtimeconfig.dev.json
+D:\Mauricio\Platzi\FundamentosC#\Etapa1\bin\Debug\net5.0\Etapa1.dll
+D:\Mauricio\Platzi\FundamentosC#\Etapa1\bin\Debug\net5.0\ref\Etapa1.dll
+D:\Mauricio\Platzi\FundamentosC#\Etapa1\bin\Debug\net5.0\Etapa1.pdb
+D:\Mauricio\Platzi\FundamentosC#\Etapa1\obj\Debug\net5.0\Etapa1.csproj.AssemblyReference.cache
+D:\Mauricio\Platzi\FundamentosC#\Etapa1\obj\Debug\net5.0\Etapa1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mauricio\Platzi\FundamentosC#\Etapa1\obj\Debug\net5.0\Etapa1.AssemblyInfoInputs.cache
+D:\Mauricio\Platzi\FundamentosC#\Etapa1\obj\Debug\net5.0\Etapa1.AssemblyInfo.cs
+D:\Mauricio\Platzi\FundamentosC#\Etapa1\obj\Debug\net5.0\Etapa1.csproj.CoreCompileInputs.cache
+D:\Mauricio\Platzi\FundamentosC#\Etapa1\obj\Debug\net5.0\Etapa1.dll
+D:\Mauricio\Platzi\FundamentosC#\Etapa1\obj\Debug\net5.0\ref\Etapa1.dll
+D:\Mauricio\Platzi\FundamentosC#\Etapa1\obj\Debug\net5.0\Etapa1.pdb
+D:\Mauricio\Platzi\FundamentosC#\Etapa1\obj\Debug\net5.0\Etapa1.genruntimeconfig.cache
